@@ -1,34 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="t d">
-<title id="t">MINDJUST — Order is a material</title>
-<desc id="d">A dark Swiss grid disrupted by a generative field and a distorted MINDJUST wordmark.</desc>
-<defs>
-  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#777" stroke-opacity=".23" stroke-width="1"/></pattern>
-  <filter id="rough" x="-10%" y="-30%" width="120%" height="160%">
-    <feTurbulence type="fractalNoise" baseFrequency=".018 .12" numOctaves="2" seed="19" result="n"/>
-    <feDisplacementMap in="SourceGraphic" in2="n" scale="13" xChannelSelector="R" yChannelSelector="G"/>
-  </filter>
-  <linearGradient id="fade"><stop stop-color="#C7F000" stop-opacity=".9"/><stop offset="1" stop-color="#C7F000" stop-opacity="0"/></linearGradient>
-</defs>
-<rect width="1200" height="420" fill="#101010"/>
-<rect width="1200" height="420" fill="url(#grid)"/>
-<g fill="none" stroke="#C7F000" stroke-width="1" opacity=".55">
- <path d="M760 0V420M800 0V420M840 0V420M880 0V420M920 0V420M960 0V420M1000 0V420M1040 0V420M1080 0V420M1120 0V420"/>
- <path d="M720 40H1200M720 80H1200M720 120H1200M720 160H1200M720 200H1200M720 240H1200M720 280H1200M720 320H1200M720 360H1200"/>
-</g>
-<g fill="#F1EFE7" font-family="Arial,Helvetica,sans-serif">
- <text x="64" y="54" font-size="13" letter-spacing="4">INDEPENDENT MIND / GENERATIVE DESIGN SYSTEM</text>
- <text x="64" y="180" font-size="108" font-weight="900" letter-spacing="-8" filter="url(#rough)">MINDJUST</text>
- <text x="68" y="224" font-family="monospace" font-size="15" letter-spacing="3">ORDER IS A MATERIAL.</text>
- <text x="68" y="370" font-family="monospace" font-size="11" letter-spacing="2" fill="#777">AI × SOFTWARE × GENERATIVE ART</text>
- <text x="1136" y="370" font-family="monospace" font-size="11" letter-spacing="2" text-anchor="end" fill="#777">LOMÉ / TG — 2026</text>
-</g>
-<g opacity=".95">
- <path d="M720 95C820 20 900 180 1000 90S1120 20 1200 100" fill="none" stroke="url(#fade)" stroke-width="2"/>
- <path d="M720 115C820 40 900 200 1000 110S1120 40 1200 120" fill="none" stroke="#C7F000" stroke-width="1"/>
- <path d="M720 135C820 60 900 220 1000 130S1120 60 1200 140" fill="none" stroke="#C7F000" stroke-opacity=".65" stroke-width="1"/>
- <path d="M720 155C820 80 900 240 1000 150S1120 80 1200 160" fill="none" stroke="#C7F000" stroke-opacity=".4" stroke-width="1"/>
-</g>
-<g fill="#FF3B30"><circle cx="1080" cy="280" r="5"/><circle cx="1120" cy="280" r="2"/><circle cx="1160" cy="280" r="5"/></g>
-<path d="M64 250H1136" stroke="#F1EFE7" stroke-opacity=".28"/>
-<text x="1136" y="54" fill="#C7F000" font-family="monospace" font-size="12" text-anchor="end" letter-spacing="2">STUDY / 001</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs><pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse"><path d="M80 0H0V80" fill="none" stroke="#777" stroke-opacity=".24"/></pattern><pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#F1EFE7" opacity=".25"/></pattern><filter id="warp" x="-20%" y="-30%" width="140%" height="160%"><feTurbulence type="fractalNoise" baseFrequency=".018 .09" numOctaves="2" seed="17" result="n"/><feDisplacementMap in="SourceGraphic" in2="n" scale="17"/></filter><clipPath id="c"><path d="M60 260H1540V620H60Z"/></clipPath></defs>
+<rect width="1600" height="900" fill="#101010"/><rect width="1600" height="900" fill="url(#grid)"/><rect width="1600" height="900" fill="url(#dots)"/>
+<g fill="none" stroke="#C7F000" stroke-width="2"><path d="M70 70H420M70 70V220M1530 70H1180M1530 70V220M70 830H420M70 830V680M1530 830H1180M1530 830V680"/></g>
+<g fill="#F1EFE7" font-family="monospace" letter-spacing="4"><text x="78" y="125" font-size="20">INDEPENDENT MIND / LOMÉ, TG</text><text x="1520" y="125" font-size="17" text-anchor="end">EST. 2026 — FIELD 001</text></g>
+<g clip-path="url(#c)"><text x="40" y="548" font-family="Arial Black,Arial,sans-serif" font-size="258" font-weight="900" letter-spacing="-18" fill="#F1EFE7" filter="url(#warp)">MINDJUST</text><path d="M90 355H1510M90 405H1510M90 455H1510M90 505H1510M90 555H1510" stroke="#101010" stroke-width="4" opacity=".6"/><path d="M735 265L855 265L785 625L665 625Z" fill="#C7F000"/><path d="M1110 265L1200 265L1070 625L980 625Z" fill="#FF3B30"/></g>
+<g font-family="monospace" fill="#C7F000" font-size="19" letter-spacing="3"><text x="80" y="700">FORM IS NEVER FINAL.</text><text x="1520" y="700" text-anchor="end">ORDER / NOISE / FORM / REPEAT</text></g><path d="M80 745H1520" stroke="#F1EFE7" opacity=".45"/><g font-family="monospace" font-size="16" fill="#777"><text x="80" y="800">AI × SOFTWARE × GENERATIVE ART</text><text x="1520" y="800" text-anchor="end">SEED: 017 / TENSION: HIGH</text></g><circle cx="1450" cy="220" r="25" fill="#C7F000"/><circle cx="1450" cy="220" r="7" fill="#101010"/></svg>
