@@ -1,67 +1,62 @@
-<!-- MINDJUST® / SWISS EDITION -->
-
+<!-- MINDJUST / GENERATIVE IDENTITY -->
 <p align="center">
-  <img src="assets/mindjust-banner.svg" alt="MINDJUST — Creative Developer" width="100%" />
+  <img src="assets/mindjust-banner.svg" alt="MINDJUST — Order is a material" width="100%" />
 </p>
 
 <p align="right"><sub>INDEPENDENT MIND · LOMÉ, TG · EST. 2026</sub></p>
 
-# BÉNI DE DIEU APATIO
+# MINDJUST
 
-**AI & SOFTWARE ENGINEERING STUDENT · DIGITAL BUILDER**
+**AI & SOFTWARE ENGINEERING · GENERATIVE ART · DIGITAL EXPERIMENTATION**
 
-I explore the space between software engineering, intelligent systems and thoughtful digital products.
+I work where software, intelligent systems and visual experimentation meet.
 
-Based in Lomé, Togo. Currently studying Artificial Intelligence & Software Engineering at ESCEN.
+My practice moves between engineering and expression: understanding systems, building tools, and exploring how structure can become something visual, kinetic and unexpected.
 
 [GitHub](https://github.com/MindJust) · [Kaggle](https://www.kaggle.com/petitsenfoirs) · [CS50x Certificate](https://cs50.harvard.edu/certificates/f3f4e615-1079-45bd-a27d-ab53ff800bcd)
 
 ---
 
-## 01 / PROFILE
+## 01 / PRINCIPLE
 
-I am interested in understanding how things work — from algorithms and computer systems to intelligent agents and scalable applications.
+**ORDER IS A MATERIAL.**
 
-My approach combines technical curiosity, mathematical reasoning and hands-on experimentation.
+A grid is a starting point, not a cage. I’m interested in the tension between Swiss structure and controlled instability — precise systems pushed until they become expressive.
 
-- Studying **Artificial Intelligence & Software Engineering** at ESCEN.
-- Completed **CS50x — Harvard University**.
-- Exploring **Reinforcement Learning** and machine learning.
-- Interested in building useful, considered digital experiences.
+Generative art is not decoration around the identity. It is part of the identity’s engine.
 
-## 02 / TOOLKIT
+## 02 / PRACTICE
 
-**LANGUAGES**
+- **Software & AI** — algorithms, intelligent systems, machine learning and computational thinking.
+- **Generative systems** — procedural forms, noise, particles, distortion and visual rules.
+- **Digital experiences** — interfaces and interactions shaped with intention.
 
+## 03 / TOOLKIT
+
+**LANGUAGES**  
 Python · C · C++ · Rust · JavaScript · TypeScript
 
-**DEVELOPMENT**
+**DEVELOPMENT**  
+React · Next.js · PostgreSQL · Supabase · Linux · Git
 
-Next.js · React · PostgreSQL · Supabase · Linux · Git
+**FIELDS**  
+Artificial Intelligence · Reinforcement Learning · Algorithms · Computer Systems · Generative Design
 
-**FIELDS OF INTEREST**
+## 04 / EDUCATION
 
-Artificial Intelligence · Reinforcement Learning · Machine Learning · Algorithms · Cybersecurity · Computer Systems
+**ESCEN — École Supérieure de Commerce et d'Économie Numérique**  
+Artificial Intelligence & Software Engineering · 2025 — PRESENT
 
-## 03 / EDUCATION
-
-**ESCEN — École Supérieure de Commerce et d'Économie Numérique**
-
-BSc track · Artificial Intelligence & Software Engineering  
-2025 — PRESENT
-
-**HARVARD UNIVERSITY**
-
-CS50x · Introduction to Computer Science  
-2026
+**HARVARD UNIVERSITY**  
+CS50x · Introduction to Computer Science · 2026
 
 ---
 
 <p align="center">
-  <strong>REMEMBER YOU'LL DIE.</strong><br/>
+  <strong>FORM IS NEVER FINAL.</strong><br/>
   Make something that matters.
 </p>
 
 <p align="center">
-  <sub>MINDJUST® — BUILD WITH INTENTION. · © 2026</sub>
+  <sub>MINDJUST® — STRUCTURE / NOISE / INTENTION · © 2026</sub>
 </p>
