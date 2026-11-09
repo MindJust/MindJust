@@ -1,72 +1,65 @@
-<!-- MINDJUST / IDENTITY FIELD -->
+<!-- MINDJUST / VISUAL IDENTITY -->
 
 <p align="center">
-  <img src="assets/mindjust-banner.svg" alt="MINDJUST — distorted wordmark in a generative grid" width="100%" />
+  <img src="assets/mindjust-banner.svg" alt="MINDJUST — experimental typographic identity" width="100%" />
 </p>
 
 <p align="center">
-  <code>INDEPENDENT MIND&nbsp; / &nbsp;LOMÉ, TG&nbsp; / &nbsp;EST. 2026</code>
+  <samp>INDEPENDENT MIND&nbsp; / &nbsp;LOMÉ, TG&nbsp; / &nbsp;EST. 2026</samp>
 </p>
 
-<h1 align="center">M I N D J U S T</h1>
+<h1 align="center">MINDJUST</h1>
 
 <p align="center">
   <strong>FORM IS NEVER FINAL.</strong><br/>
-  <sub>ORDER → NOISE → FORM → AGAIN</sub>
+  <samp>01 — ORDER&nbsp;&nbsp; / &nbsp;&nbsp;02 — NOISE&nbsp;&nbsp; / &nbsp;&nbsp;03 — FORM&nbsp;&nbsp; / &nbsp;&nbsp;↻</samp>
 </p>
 
 <p align="center">
-  <code>AI</code> &nbsp; <code>SOFTWARE</code> &nbsp; <code>GENERATIVE ART</code> &nbsp; <code>EXPERIMENT</code>
+  AI&nbsp; · &nbsp;SOFTWARE ENGINEERING&nbsp; · &nbsp;GENERATIVE ART&nbsp; · &nbsp;EXPERIMENTAL DESIGN
 </p>
 
 ---
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>01 — POSITION</sub>
-      <h2>STRUCTURE<br/>IS A STARTING POINT.</h2>
-      A grid gives a system its tension. Code gives it behaviour. Noise gives it a way out.
+<p align="center">
+  <strong>ORDER IS A MATERIAL.</strong><br/>
+  A grid is not a cage. It is a set of conditions waiting to be disturbed.
+</p>
 
-      I work between software engineering, intelligent systems and visual experimentation — turning rules into forms, and forms into experiences.
-    </td>
-    <td width="50%" valign="top">
-      <sub>02 — METHOD</sub>
-      <h2>CONTROLLED<br/>INSTABILITY.</h2>
-      <code>SEED</code> / <code>DENSITY</code><br/>
-      <code>RHYTHM</code> / <code>DISPLACEMENT</code><br/>
-      <code>DISTORTION</code> / <code>TENSION</code>
-
-      Generative art is not an illustration layer. It is the identity engine: a system that can mutate without losing its name.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <samp>SEED&nbsp; / &nbsp;DENSITY&nbsp; / &nbsp;RHYTHM&nbsp; / &nbsp;DISPLACEMENT&nbsp; / &nbsp;DISTORTION&nbsp; / &nbsp;TENSION</samp>
+</p>
 
 <p align="center">
   <strong>THE WORD IS THE MATERIAL.</strong><br/>
-  <sub>LETTERFORM / PARTICLE / GRID / INTERRUPTION</sub>
+  <sub>LETTERFORM → PARTICLE → GRID → INTERRUPTION → RECOMPOSITION</sub>
 </p>
 
 ---
 
-### 03 — FIELD NOTES
+## 01 / POSITION
 
-| COMPUTATION | EXPRESSION |
-|:--|:--|
-| Artificial intelligence | Generative systems |
-| Algorithms & data structures | Procedural form |
-| Software engineering | Motion & interaction |
-| Computer systems | Visual experimentation |
+I move between software engineering, intelligent systems and visual experimentation.
 
-### 04 — TOOLS
+I build with rules, then test where they break. Code is both tool and medium; generative art is not decoration around the identity — it is the process that produces it.
+
+## 02 / FIELD
+
+**COMPUTATION**  
+Artificial intelligence · Algorithms · Data structures · Computer systems
+
+**EXPRESSION**  
+Generative systems · Procedural graphics · Kinetic typography · Motion & interaction
+
+## 03 / TOOLKIT
 
 **LANGUAGES**  
 Python · C · C++ · Rust · JavaScript · TypeScript
 
-**BUILD**  
+**BUILDING**  
 React · Next.js · PostgreSQL · Supabase · Linux · Git
 
-### 05 — FORMATION
+## 04 / FORMATION
 
 **ESCEN** — École Supérieure de Commerce et d'Économie Numérique  
 Artificial Intelligence & Software Engineering · 2025 — PRESENT
@@ -78,12 +71,12 @@ CS50x · Introduction to Computer Science · 2026
 
 <p align="center">
   <a href="https://github.com/MindJust">GITHUB</a>
-  &nbsp;·&nbsp;
+  &nbsp; / &nbsp;
   <a href="https://www.kaggle.com/petitsenfoirs">KAGGLE</a>
-  &nbsp;·&nbsp;
+  &nbsp; / &nbsp;
   <a href="https://cs50.harvard.edu/certificates/f3f4e615-1079-45bd-a27d-ab53ff800bcd">CS50X</a>
 </p>
 
 <p align="center">
-  <sub>LOMÉ, TG — MINDJUST® — STRUCTURE / NOISE / INTENTION — © 2026</sub>
+  <sub>LOMÉ, TG&nbsp; — &nbsp;MINDJUST&nbsp; — &nbsp;STRUCTURE / NOISE / INTENTION&nbsp; — &nbsp;© 2026</sub>
 </p>
