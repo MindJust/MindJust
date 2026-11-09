@@ -1,50 +1,74 @@
-<!-- MINDJUST / GENERATIVE IDENTITY -->
+<!-- MINDJUST / IDENTITY FIELD -->
+
 <p align="center">
-  <img src="assets/mindjust-banner.svg" alt="MINDJUST — Order is a material" width="100%" />
+  <img src="assets/mindjust-banner.svg" alt="MINDJUST — distorted wordmark in a generative grid" width="100%" />
 </p>
 
-<p align="right"><sub>INDEPENDENT MIND · LOMÉ, TG · EST. 2026</sub></p>
+<p align="center">
+  <code>INDEPENDENT MIND&nbsp; / &nbsp;LOMÉ, TG&nbsp; / &nbsp;EST. 2026</code>
+</p>
 
-# MINDJUST
+<h1 align="center">M I N D J U S T</h1>
 
-**AI & SOFTWARE ENGINEERING · GENERATIVE ART · DIGITAL EXPERIMENTATION**
+<p align="center">
+  <strong>FORM IS NEVER FINAL.</strong><br/>
+  <sub>ORDER → NOISE → FORM → AGAIN</sub>
+</p>
 
-I work where software, intelligent systems and visual experimentation meet.
-
-My practice moves between engineering and expression: understanding systems, building tools, and exploring how structure can become something visual, kinetic and unexpected.
-
-[GitHub](https://github.com/MindJust) · [Kaggle](https://www.kaggle.com/petitsenfoirs) · [CS50x Certificate](https://cs50.harvard.edu/certificates/f3f4e615-1079-45bd-a27d-ab53ff800bcd)
+<p align="center">
+  <code>AI</code> &nbsp; <code>SOFTWARE</code> &nbsp; <code>GENERATIVE ART</code> &nbsp; <code>EXPERIMENT</code>
+</p>
 
 ---
 
-## 01 / PRINCIPLE
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <sub>01 — POSITION</sub>
+      <h2>STRUCTURE<br/>IS A STARTING POINT.</h2>
+      A grid gives a system its tension. Code gives it behaviour. Noise gives it a way out.
 
-**ORDER IS A MATERIAL.**
+      I work between software engineering, intelligent systems and visual experimentation — turning rules into forms, and forms into experiences.
+    </td>
+    <td width="50%" valign="top">
+      <sub>02 — METHOD</sub>
+      <h2>CONTROLLED<br/>INSTABILITY.</h2>
+      <code>SEED</code> / <code>DENSITY</code><br/>
+      <code>RHYTHM</code> / <code>DISPLACEMENT</code><br/>
+      <code>DISTORTION</code> / <code>TENSION</code>
 
-A grid is a starting point, not a cage. I’m interested in the tension between Swiss structure and controlled instability — precise systems pushed until they become expressive.
+      Generative art is not an illustration layer. It is the identity engine: a system that can mutate without losing its name.
+    </td>
+  </tr>
+</table>
 
-Generative art is not decoration around the identity. It is part of the identity’s engine.
+<p align="center">
+  <strong>THE WORD IS THE MATERIAL.</strong><br/>
+  <sub>LETTERFORM / PARTICLE / GRID / INTERRUPTION</sub>
+</p>
 
-## 02 / PRACTICE
+---
 
-- **Software & AI** — algorithms, intelligent systems, machine learning and computational thinking.
-- **Generative systems** — procedural forms, noise, particles, distortion and visual rules.
-- **Digital experiences** — interfaces and interactions shaped with intention.
+### 03 — FIELD NOTES
 
-## 03 / TOOLKIT
+| COMPUTATION | EXPRESSION |
+|:--|:--|
+| Artificial intelligence | Generative systems |
+| Algorithms & data structures | Procedural form |
+| Software engineering | Motion & interaction |
+| Computer systems | Visual experimentation |
+
+### 04 — TOOLS
 
 **LANGUAGES**  
 Python · C · C++ · Rust · JavaScript · TypeScript
 
-**DEVELOPMENT**  
+**BUILD**  
 React · Next.js · PostgreSQL · Supabase · Linux · Git
 
-**FIELDS**  
-Artificial Intelligence · Reinforcement Learning · Algorithms · Computer Systems · Generative Design
+### 05 — FORMATION
 
-## 04 / EDUCATION
-
-**ESCEN — École Supérieure de Commerce et d'Économie Numérique**  
+**ESCEN** — École Supérieure de Commerce et d'Économie Numérique  
 Artificial Intelligence & Software Engineering · 2025 — PRESENT
 
 **HARVARD UNIVERSITY**  
@@ -53,10 +77,13 @@ CS50x · Introduction to Computer Science · 2026
 ---
 
 <p align="center">
-  <strong>FORM IS NEVER FINAL.</strong><br/>
-  Make something that matters.
+  <a href="https://github.com/MindJust">GITHUB</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.kaggle.com/petitsenfoirs">KAGGLE</a>
+  &nbsp;·&nbsp;
+  <a href="https://cs50.harvard.edu/certificates/f3f4e615-1079-45bd-a27d-ab53ff800bcd">CS50X</a>
 </p>
 
 <p align="center">
-  <sub>MINDJUST® — STRUCTURE / NOISE / INTENTION · © 2026</sub>
+  <sub>LOMÉ, TG — MINDJUST® — STRUCTURE / NOISE / INTENTION — © 2026</sub>
 </p>
