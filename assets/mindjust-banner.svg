@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">MINDJUST — Creative Developer</title>
+  <desc id="desc">Swiss editorial style banner in warm ivory, black and signal red.</desc>
+  <rect width="1200" height="360" fill="#F5F4EF"/>
+  <rect x="0" y="0" width="16" height="360" fill="#C8102E"/>
+  <g fill="#111111" font-family="Arial, Helvetica, sans-serif">
+    <text x="66" y="54" font-size="13" letter-spacing="4">INDEPENDENT MIND / DIGITAL BUILDER</text>
+    <text x="62" y="194" font-size="118" font-weight="800" letter-spacing="-8">MINDJUST<tspan fill="#C8102E">®</tspan></text>
+    <text x="68" y="246" font-size="20" letter-spacing="3">AI &amp; SOFTWARE ENGINEERING</text>
+    <text x="68" y="310" font-size="12" letter-spacing="2">LOMÉ, TOGO</text>
+    <text x="1130" y="310" font-size="12" text-anchor="end" letter-spacing="2">EST. 2026</text>
+  </g>
+  <g transform="translate(1000 76)">
+    <circle cx="54" cy="54" r="53" fill="none" stroke="#111111" stroke-width="1.5"/>
+    <path d="M54 8V100M8 54H100" stroke="#111111" stroke-width="1.5"/>
+    <circle cx="54" cy="54" r="13" fill="#C8102E"/>
+    <path d="M54 0V18M54 90V108M0 54H18M90 54H108" stroke="#C8102E" stroke-width="4"/>
+  </g>
+  <path d="M68 270H1132" stroke="#111111" stroke-width="1" opacity=".25"/>
+  <text x="1132" y="54" fill="#C8102E" font-family="Arial, Helvetica, sans-serif" font-size="13" text-anchor="end" letter-spacing="3">01 — 03</text>
+</svg>
