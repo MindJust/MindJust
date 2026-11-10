@@ -12,7 +12,6 @@
   <path d="M105 220L160 169L215 220" stroke="#55e69a" stroke-width="4"/>
 </g>
 <text x="270" y="150" fill="#f1f4f1" font-family="monospace" font-size="64" font-weight="700" letter-spacing="-3">MindJust<tspan fill="#55e69a">.</tspan></text>
-<text x="274" y="198" fill="#c0c9c3" font-family="monospace" font-size="21">AI / SOFTWARE ENGINEERING / GENERATIVE ART</text>
 <text x="274" y="246" fill="#78857d" font-family="monospace" font-size="16" letter-spacing="2">LOMÉ, TOGO  ·  GMT+0</text>
 <g stroke="#55e69a" fill="none" stroke-width="2">
   <circle cx="940" cy="170" r="92" opacity=".55"/>
@@ -23,8 +22,5 @@
 </g>
 <circle cx="940" cy="170" r="5" fill="#55e69a"/>
 <g fill="#55e69a"><circle cx="1090" cy="78" r="4"/><circle cx="1090" cy="262" r="4"/></g>
-<text x="1080" y="112" fill="#87948c" font-family="monospace" font-size="13" text-anchor="end">01 / BUILD</text>
-<text x="1080" y="242" fill="#87948c" font-family="monospace" font-size="13" text-anchor="end">02 / EXPLORE</text>
-<text x="70" y="330" fill="#647168" font-family="monospace" font-size="12" letter-spacing="2">PERSONAL PROFILE  /  MINDJUST</text>
 <text x="1130" y="330" fill="#647168" font-family="monospace" font-size="12" text-anchor="end">EST. 2026</text>
 </svg>
