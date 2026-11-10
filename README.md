@@ -47,13 +47,9 @@ My interests sit somewhere between artificial intelligence, low-level computing,
 
 **Languages** : Python, C, C++, Rust, JavaScript, TypeScript
 
-**Frameworks & data**
+**Frameworks & data** : React, Next.js, PostgreSQL, Supabase
 
-React, Next.js, PostgreSQL, Supabase
-
-**Environment**
-
-Linux, Git
+**Environment** : Linux, Git
 
 <br>
 
