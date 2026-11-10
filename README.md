@@ -1,121 +1,92 @@
 <!-- MINDJUST — A STUDY IN MAKING -->
 
 <div align="center">
-
-  <sub>A STUDY IN MAKING &nbsp;·&nbsp; PERSONAL JOURNAL</sub>
-
+  <img src="assets/profile_banner.svg" alt="MindJust — A study in making" width="100%" />
   <br><br>
-
-  # MindJust.
-
-  ### *Curiosity is a way of building.*
-
-  <br>
-
-  AI student · Software engineering enthusiast
-
-  Interested in the intersection of computation, intelligence and creative expression.
-
-  <br><br>
-
-  [GitHub](https://github.com/MindJust) &nbsp;·&nbsp;
-  [Kaggle](https://www.kaggle.com/petitsenfoirs) &nbsp;·&nbsp;
-  [CS50x Certificate](https://cs50.harvard.edu/certificates/f3f4e615-1079-45bd-a27d-ab53ff800bcd)
-
+  <a href="https://github.com/MindJust">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.kaggle.com/petitsenfoirs">Kaggle</a>
+  &nbsp;·&nbsp;
+  <a href="https://cs50.harvard.edu/certificates/f3f4e615-1079-45bd-a27d-ab53ff800bcd">CS50x Certificate</a>
 </div>
 
 <br>
 
 ---
 
-<br>
-
-## 01 &nbsp; — &nbsp; A little about me
+## 01 &nbsp; / &nbsp; A little about me
 
 I'm MindJust, an Artificial Intelligence and Software Engineering student based in **Lomé, Togo**.
 
 I enjoy understanding how things work, exploring complex systems and turning ideas into something tangible.
 
-My interests lie somewhere between artificial intelligence, low-level computing, mathematical thinking and creative experimentation.
-
-I'm particularly fascinated by what happens when technical precision meets creative freedom.
+My interests sit somewhere between artificial intelligence, low-level computing, mathematical thinking and creative experimentation. I'm especially drawn to the meeting point between technical precision and creative freedom.
 
 <br>
 
-## 02 &nbsp; — &nbsp; Areas of curiosity
+## 02 &nbsp; / &nbsp; Areas of curiosity
 
-*Things I enjoy exploring, questioning and learning about.*
+<p align="center">
+  <img src="https://img.shields.io/badge/01-Artificial%20intelligence-B85F43?style=flat-square&labelColor=29231F" alt="Artificial intelligence" />
+  <img src="https://img.shields.io/badge/02-Computer%20science-B85F43?style=flat-square&labelColor=29231F" alt="Computer science" />
+  <img src="https://img.shields.io/badge/03-Systems-B85F43?style=flat-square&labelColor=29231F" alt="Systems" />
+  <img src="https://img.shields.io/badge/04-Creative%20computing-B85F43?style=flat-square&labelColor=29231F" alt="Creative computing" />
+</p>
 
-| | |
-|:---|:---|
-| **Artificial Intelligence** | Machine learning, intelligent systems |
-| **Computer Science** | Algorithms, data structures |
+| Field | Current interests |
+|:--|:--|
+| **Intelligence** | Machine learning, intelligent systems |
+| **Computer science** | Algorithms, data structures |
 | **Systems** | Systems programming, low-level computing |
-| **Creative Computing** | Generative art, procedural graphics |
+| **Creative computing** | Generative art, procedural graphics |
 | **Engineering** | Software design, architecture |
 
 <br>
 
-## 03 &nbsp; — &nbsp; Technical vocabulary
+## 03 &nbsp; / &nbsp; Tools of the trade
 
 **Languages**
 
-`Python` &nbsp; `C` &nbsp; `C++` &nbsp; `Rust` &nbsp; `JavaScript` &nbsp; `TypeScript`
+\`Python\` &nbsp; \`C\` &nbsp; \`C++\` &nbsp; \`Rust\` &nbsp; \`JavaScript\` &nbsp; \`TypeScript\`
 
-**Frameworks & technologies**
+**Frameworks & data**
 
-`React` &nbsp; `Next.js` &nbsp; `PostgreSQL` &nbsp; `Supabase`
+\`React\` &nbsp; \`Next.js\` &nbsp; \`PostgreSQL\` &nbsp; \`Supabase\`
 
-**Environment & tools**
+**Environment**
 
-`Linux` &nbsp; `Git`
-
-<br>
-
-## 04 &nbsp; — &nbsp; The learning journey
-
-**ESCEN — École Supérieure de Commerce et d'Économie Numérique**
-
-Artificial Intelligence & Software Engineering
-
-*2025 — Present*
+\`Linux\` &nbsp; \`Git\`
 
 <br>
 
-**Harvard University**
+## 04 &nbsp; / &nbsp; The learning journey
 
-CS50x — Introduction to Computer Science
-
-*2026*
-
-[View certificate →](https://cs50.harvard.edu/certificates/f3f4e615-1079-45bd-a27d-ab53ff800bcd)
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>ESCEN</strong><br>
+      <sub>École Supérieure de Commerce et d'Économie Numérique</sub><br><br>
+      Artificial Intelligence &amp; Software Engineering<br>
+      <sub>2025 — Present</sub>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Harvard University</strong><br>
+      <sub>CS50x · Introduction to Computer Science</sub><br><br>
+      <a href="https://cs50.harvard.edu/certificates/f3f4e615-1079-45bd-a27d-ab53ff800bcd">View certificate ↗</a><br>
+      <sub>2026</sub>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 ---
 
-<br>
-
-## 05 &nbsp; — &nbsp; Beyond the code
-
-I believe curiosity is one of the most valuable tools an engineer can have.
-
-There is always something deeper to understand, another perspective to consider and another possibility to explore.
-
-I'm here to keep learning, experimenting and building.
-
-<br>
-
 <div align="center">
-
-  *"Stay curious. Make things. Understand why."*
-
-  <br><br>
-
-  <sub>INDEPENDENTLY THINKING · CONSTANTLY LEARNING</sub>
-
   <br>
-
-  <sub>MINDJUST · LOMÉ, TOGO</sub>
-
+  <em>“Stay curious. Make things. Understand why.”</em>
+  <br><br>
+  <sub>INDEPENDENTLY THINKING &nbsp;·&nbsp; CONSTANTLY LEARNING</sub>
+  <br>
+  <sub>MINDJUST &nbsp;·&nbsp; LOMÉ, TOGO</sub>
 </div>
