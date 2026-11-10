@@ -1,61 +1,32 @@
-<!-- MINDJUST / GENERATIVE IDENTITY -->
+# Hi, I'm MindJust.
 
-<p align="center">
-  <img src="assets/mindjust-banner.svg" alt="MINDJUST — distorted typographic identity on a Swiss grid" width="100%" />
-</p>
+I'm an AI and software engineering student based in Lomé, Togo.
 
-<p align="center"><samp>INDEPENDENT MIND &nbsp; / &nbsp; LOMÉ, TG &nbsp; / &nbsp; EST. 2026</samp></p>
+I enjoy building software, understanding how systems work, and exploring the creative side of code.
 
-<p align="center"><strong>FORM IS NEVER FINAL.</strong><br/><samp>01 — ORDER &nbsp; / &nbsp; 02 — NOISE &nbsp; / &nbsp; 03 — FORM &nbsp; / &nbsp; ↻</samp></p>
+## Interests
 
-<p align="center"><img src="assets/mindjust-system.svg" alt="Generative system: seed, density, rhythm, distortion and recomposition" width="100%" /></p>
+- Artificial intelligence and machine learning
+- Algorithms and data structures
+- Systems programming
+- Generative art and procedural graphics
+- Software engineering
 
-## 01 / POSITION
+## Technologies
 
-I work across **AI, software engineering and generative art**.
+**Languages:** Python · C · C++ · Rust · JavaScript · TypeScript
 
-Code is both tool and medium. I build systems from rules, then explore the instability inside them. The visual identity follows the same principle: a structure is established, disturbed and recomposed.
+**Tools & frameworks:** React · Next.js · PostgreSQL · Supabase · Linux · Git
 
-> **ORDER IS A MATERIAL.**  
-> A grid is not a cage. It is a set of conditions waiting to be disturbed.
+## Education
 
-## 02 / GENERATIVE SYSTEM
+**ESCEN — École Supérieure de Commerce et d'Économie Numérique**  
+Artificial Intelligence & Software Engineering · 2025–present
 
-`SEED` / `DENSITY` / `RHYTHM` / `DISPLACEMENT` / `DISTORTION` / `TENSION`
+**Harvard University**  
+CS50x — Introduction to Computer Science · 2026
 
-The wordmark is the raw material. Letterforms become particles; particles collide with the grid; interruptions produce new compositions.
+## Find me
 
-## 03 / FIELD NOTES
-
-| COMPUTATION | EXPRESSION |
-|:--|:--|
-| Artificial intelligence | Generative systems |
-| Algorithms & data structures | Procedural graphics |
-| Computer systems | Kinetic typography |
-| Software engineering | Motion & interaction |
-
-## 04 / TOOLKIT
-
-**LANGUAGES**  
-Python · C · C++ · Rust · JavaScript · TypeScript
-
-**BUILDING**  
-React · Next.js · PostgreSQL · Supabase · Linux · Git
-
-## 05 / FORMATION
-
-**ESCEN** — École Supérieure de Commerce et d'Économie Numérique  
-Artificial Intelligence & Software Engineering · 2025 — PRESENT
-
-**HARVARD UNIVERSITY**  
-CS50x · Introduction to Computer Science · 2026
-
----
-
-<p align="center">
-  <a href="https://github.com/MindJust">GITHUB</a> &nbsp; / &nbsp;
-  <a href="https://www.kaggle.com/petitsenfoirs">KAGGLE</a> &nbsp; / &nbsp;
-  <a href="https://cs50.harvard.edu/certificates/f3f4e615-1079-45bd-a27d-ab53ff800bcd">CS50X</a>
-</p>
-
-<p align="center"><sub>LOMÉ, TG — MINDJUST — STRUCTURE / NOISE / INTENTION — © 2026</sub></p>
+- [Kaggle](https://www.kaggle.com/petitsenfoirs)
+- [CS50x certificate](https://cs50.harvard.edu/certificates/f3f4e615-1079-45bd-a27d-ab53ff800bcd)
