@@ -1,7 +1,7 @@
 <!-- MINDJUST — A STUDY IN MAKING -->
 
 <div align="center">
-  <img src="assets/profile_bannerb.svg" alt="MindJust — A study in making" width="100%" />
+  <img src="assets/profile_banner.svg" alt="MindJust — A study in making" width="100%" />
   <br><br>
   <a href="https://github.com/MindJust">GitHub</a>
   &nbsp;·&nbsp;
