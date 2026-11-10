@@ -19,7 +19,6 @@
   <path d="M42 34V386M1158 34V386" stroke="#D8CFC2" stroke-width="1"/>
 
   <circle cx="1084" cy="72" r="4" fill="#C05B42"/>
-  <text x="1102" y="77" fill="#806D60" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2">LOMÉ, TG</text>
 
   <text x="76" y="211" fill="#302923" font-family="Georgia, 'Times New Roman', serif" font-size="105" letter-spacing="-5">MindJust<tspan fill="#C05B42">.</tspan></text>
   <text x="84" y="264" fill="#6E5B4E" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-style="italic">Curiosity, made tangible.</text>
