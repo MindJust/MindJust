@@ -45,17 +45,15 @@ My interests sit somewhere between artificial intelligence, low-level computing,
 
 ## Tools of the trade
 
-**Languages**
-
-\`Python\` &nbsp; \`C\` &nbsp; \`C++\` &nbsp; \`Rust\` &nbsp; \`JavaScript\` &nbsp; \`TypeScript\`
+**Languages** : Python, C, C++, Rust, JavaScript, TypeScript
 
 **Frameworks & data**
 
-\`React\` &nbsp; \`Next.js\` &nbsp; \`PostgreSQL\` &nbsp; \`Supabase\`
+React, Next.js, PostgreSQL, Supabase
 
 **Environment**
 
-\`Linux\` &nbsp; \`Git\`
+Linux, Git
 
 <br>
 
