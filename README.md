@@ -14,7 +14,7 @@
 
 ---
 
-## 01 &nbsp; / &nbsp; A little about me
+## A little about me
 
 I'm MindJust, an Artificial Intelligence and Software Engineering student based in **Lomé, Togo**.
 
@@ -24,7 +24,7 @@ My interests sit somewhere between artificial intelligence, low-level computing,
 
 <br>
 
-## 02 &nbsp; / &nbsp; Areas of curiosity
+## Areas of curiosity
 
 <p align="center">
   <img src="https://img.shields.io/badge/01-Artificial%20intelligence-B85F43?style=flat-square&labelColor=29231F" alt="Artificial intelligence" />
