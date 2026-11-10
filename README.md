@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/profile-banner.svg" alt="MindJust — AI, software engineering and generative art" width="100%" />
-</p>
+
 
 # Hi, I'm MindJust.
 
