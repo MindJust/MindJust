@@ -1,20 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
-<title id="title">MindJust — A study in making</title>
-<desc id="desc">An editorial composition in warm ivory and terracotta, with an abstract organic sun motif.</desc>
-<rect width="1200" height="390" fill="#F3EEE5"/>
-<path d="M0 0H1200V390H0Z" fill="none" stroke="#D8CFC1" stroke-width="2"/>
-<path d="M0 286C190 258 310 310 470 288S780 246 1200 280" fill="none" stroke="#D9CFC1" stroke-width="1"/>
-<circle cx="970" cy="180" r="115" fill="#D97757" opacity=".14"/>
-<circle cx="970" cy="180" r="82" fill="none" stroke="#B85F43" stroke-width="1.5"/>
-<circle cx="970" cy="180" r="57" fill="none" stroke="#B85F43" stroke-width="1" opacity=".65"/>
-<path d="M970 48C1015 96 1054 138 1102 180C1054 222 1015 264 970 312C925 264 886 222 838 180C886 138 925 96 970 48Z" fill="none" stroke="#B85F43" stroke-width="1.5"/>
-<path d="M970 96C1016 142 1016 218 970 264C924 218 924 142 970 96Z" fill="#D97757" opacity=".22"/>
-<path d="M970 18V342M808 180H1132" stroke="#B85F43" stroke-width="1" opacity=".35"/>
-<circle cx="970" cy="180" r="7" fill="#B85F43"/>
-<text x="78" y="72" fill="#8B7666" font-family="Arial,sans-serif" font-size="14" letter-spacing="4">A STUDY IN MAKING  /  PERSONAL JOURNAL</text>
-<text x="74" y="190" fill="#29231F" font-family="Georgia,'Times New Roman',serif" font-size="94" letter-spacing="-4">MindJust<tspan fill="#B85F43">.</tspan></text>
-<text x="80" y="242" fill="#65564B" font-family="Georgia,'Times New Roman',serif" font-size="27" font-style="italic">Curiosity is a way of building.</text>
-<path d="M80 282H420" stroke="#B85F43" stroke-width="2"/>
-<text x="80" y="326" fill="#8B7666" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">AI · SOFTWARE ENGINEERING · CREATIVE COMPUTING</text>
-<text x="1120" y="356" fill="#8B7666" font-family="Arial,sans-serif" font-size="12" letter-spacing="2" text-anchor="end">LOMÉ, TOGO</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">MindJust — Curiosity, made tangible</title>
+  <desc id="desc">A warm editorial banner with expressive terracotta botanical linework and serif typography.</desc>
+
+  <defs>
+    <pattern id="paper" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="3" cy="5" r=".7" fill="#8C7665" opacity=".13"/>
+      <circle cx="17" cy="19" r=".55" fill="#8C7665" opacity=".10"/>
+    </pattern>
+    <linearGradient id="clay" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#D77B5D"/>
+      <stop offset="1" stop-color="#B94F37"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="420" fill="#F4F0E8"/>
+  <rect width="1200" height="420" fill="url(#paper)"/>
+  <path d="M42 34H1158M42 386H1158" stroke="#D8CFC2" stroke-width="1"/>
+  <path d="M42 34V386M1158 34V386" stroke="#D8CFC2" stroke-width="1"/>
+
+  <text x="82" y="79" fill="#806D60" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="3.8">MINDJUST  /  FIELD NOTES</text>
+  <circle cx="1084" cy="72" r="4" fill="#C05B42"/>
+  <text x="1102" y="77" fill="#806D60" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2">LOMÉ, TG</text>
+
+  <text x="76" y="211" fill="#302923" font-family="Georgia, 'Times New Roman', serif" font-size="105" letter-spacing="-5">MindJust<tspan fill="#C05B42">.</tspan></text>
+  <text x="84" y="264" fill="#6E5B4E" font-family="Georgia, 'Times New Roman', serif" font-size="29" font-style="italic">Curiosity, made tangible.</text>
+  <path d="M84 300H470" stroke="#C05B42" stroke-width="2"/>
+  <text x="84" y="338" fill="#806D60" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.2">ARTIFICIAL INTELLIGENCE</text>
+  <text x="84" y="359" fill="#806D60" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2.2">SOFTWARE ENGINEERING  ·  CREATIVE COMPUTING</text>
+
+  <!-- Original botanical / thinking-flower mark -->
+  <g transform="translate(895 211)">
+    <circle r="148" fill="#E8DCCB" opacity=".55"/>
+    <circle r="132" fill="none" stroke="#C98268" stroke-width="1" opacity=".55"/>
+    <g fill="none" stroke="url(#clay)" stroke-width="2.1" stroke-linecap="round">
+      <path d="M0 -15 C-54 -54 -62 -112 0 -151 C62 -112 54 -54 0 -15Z"/>
+      <path d="M0 -15 C-54 -54 -62 -112 0 -151 C62 -112 54 -54 0 -15Z" transform="rotate(36)"/>
+      <path d="M0 -15 C-54 -54 -62 -112 0 -151 C62 -112 54 -54 0 -15Z" transform="rotate(72)"/>
+      <path d="M0 -15 C-54 -54 -62 -112 0 -151 C62 -112 54 -54 0 -15Z" transform="rotate(108)"/>
+      <path d="M0 -15 C-54 -54 -62 -112 0 -151 C62 -112 54 -54 0 -15Z" transform="rotate(144)"/>
+      <path d="M0 -15 C-54 -54 -62 -112 0 -151 C62 -112 54 -54 0 -15Z" transform="rotate(180)"/>
+      <path d="M0 -15 C-54 -54 -62 -112 0 -151 C62 -112 54 -54 0 -15Z" transform="rotate(216)"/>
+      <path d="M0 -15 C-54 -54 -62 -112 0 -151 C62 -112 54 -54 0 -15Z" transform="rotate(252)"/>
+      <path d="M0 -15 C-54 -54 -62 -112 0 -151 C62 -112 54 -54 0 -15Z" transform="rotate(288)"/>
+      <path d="M0 -15 C-54 -54 -62 -112 0 -151 C62 -112 54 -54 0 -15Z" transform="rotate(324)"/>
+    </g>
+    <g fill="none" stroke="#A94D38" stroke-width="1.2" opacity=".8">
+      <circle r="76"/>
+      <circle r="55"/>
+      <path d="M-112 0H112M0 -112V112" opacity=".45"/>
+      <path d="M-79 -79L79 79M79 -79L-79 79" opacity=".35"/>
+    </g>
+    <circle r="17" fill="#C05B42"/>
+    <circle r="5" fill="#F4F0E8"/>
+  </g>
+
+  <text x="1084" y="345" text-anchor="end" fill="#806D60" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-style="italic">01 — always becoming</text>
 </svg>
