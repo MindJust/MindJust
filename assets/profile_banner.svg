@@ -1,26 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
-<defs>
-  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#252b2a" stroke-width="1"/></pattern>
-  <linearGradient id="fade" x1="0" x2="1"><stop offset="0" stop-color="#101514"/><stop offset="1" stop-color="#0b0e0e"/></linearGradient>
-</defs>
-<rect width="1200" height="360" fill="url(#fade)"/>
-<rect x="700" width="500" height="360" fill="url(#grid)" opacity=".85"/>
-<path d="M0 300H1200" stroke="#303a36"/>
-<path d="M70 70V260" stroke="#39433e" stroke-width="2"/>
-<g fill="none" stroke="#e8eee9" stroke-width="9" stroke-linecap="square" stroke-linejoin="miter">
-  <path d="M105 220V115L160 169L215 115V220"/>
-  <path d="M105 220L160 169L215 220" stroke="#55e69a" stroke-width="4"/>
-</g>
-<text x="270" y="150" fill="#f1f4f1" font-family="monospace" font-size="64" font-weight="700" letter-spacing="-3">MindJust<tspan fill="#55e69a">.</tspan></text>
-<text x="274" y="246" fill="#78857d" font-family="monospace" font-size="16" letter-spacing="2">LOMÉ, TOGO  ·  GMT+0</text>
-<g stroke="#55e69a" fill="none" stroke-width="2">
-  <circle cx="940" cy="170" r="92" opacity=".55"/>
-  <circle cx="940" cy="170" r="58" opacity=".35"/>
-  <path d="M848 170H1032M940 78V262" opacity=".5"/>
-  <path d="M940 78L1032 170L940 262L848 170Z" opacity=".45"/>
-  <path d="M940 130L980 170L940 210L900 170Z" fill="#55e69a" fill-opacity=".12"/>
-</g>
-<circle cx="940" cy="170" r="5" fill="#55e69a"/>
-<g fill="#55e69a"><circle cx="1090" cy="78" r="4"/><circle cx="1090" cy="262" r="4"/></g>
-<text x="1130" y="330" fill="#647168" font-family="monospace" font-size="12" text-anchor="end">EST. 2026</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+<title id="title">MindJust — A study in making</title>
+<desc id="desc">An editorial composition in warm ivory and terracotta, with an abstract organic sun motif.</desc>
+<rect width="1200" height="390" fill="#F3EEE5"/>
+<path d="M0 0H1200V390H0Z" fill="none" stroke="#D8CFC1" stroke-width="2"/>
+<path d="M0 286C190 258 310 310 470 288S780 246 1200 280" fill="none" stroke="#D9CFC1" stroke-width="1"/>
+<circle cx="970" cy="180" r="115" fill="#D97757" opacity=".14"/>
+<circle cx="970" cy="180" r="82" fill="none" stroke="#B85F43" stroke-width="1.5"/>
+<circle cx="970" cy="180" r="57" fill="none" stroke="#B85F43" stroke-width="1" opacity=".65"/>
+<path d="M970 48C1015 96 1054 138 1102 180C1054 222 1015 264 970 312C925 264 886 222 838 180C886 138 925 96 970 48Z" fill="none" stroke="#B85F43" stroke-width="1.5"/>
+<path d="M970 96C1016 142 1016 218 970 264C924 218 924 142 970 96Z" fill="#D97757" opacity=".22"/>
+<path d="M970 18V342M808 180H1132" stroke="#B85F43" stroke-width="1" opacity=".35"/>
+<circle cx="970" cy="180" r="7" fill="#B85F43"/>
+<text x="78" y="72" fill="#8B7666" font-family="Arial,sans-serif" font-size="14" letter-spacing="4">A STUDY IN MAKING  /  PERSONAL JOURNAL</text>
+<text x="74" y="190" fill="#29231F" font-family="Georgia,'Times New Roman',serif" font-size="94" letter-spacing="-4">MindJust<tspan fill="#B85F43">.</tspan></text>
+<text x="80" y="242" fill="#65564B" font-family="Georgia,'Times New Roman',serif" font-size="27" font-style="italic">Curiosity is a way of building.</text>
+<path d="M80 282H420" stroke="#B85F43" stroke-width="2"/>
+<text x="80" y="326" fill="#8B7666" font-family="Arial,sans-serif" font-size="13" letter-spacing="2">AI · SOFTWARE ENGINEERING · CREATIVE COMPUTING</text>
+<text x="1120" y="356" fill="#8B7666" font-family="Arial,sans-serif" font-size="12" letter-spacing="2" text-anchor="end">LOMÉ, TOGO</text>
 </svg>
