@@ -27,10 +27,10 @@ My interests sit somewhere between artificial intelligence, low-level computing,
 ## Areas of curiosity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/01-Artificial%20intelligence-B85F43?style=flat-square&labelColor=29231F" alt="Artificial intelligence" />
-  <img src="https://img.shields.io/badge/02-Computer%20science-B85F43?style=flat-square&labelColor=29231F" alt="Computer science" />
-  <img src="https://img.shields.io/badge/03-Systems-B85F43?style=flat-square&labelColor=29231F" alt="Systems" />
-  <img src="https://img.shields.io/badge/04-Creative%20computing-B85F43?style=flat-square&labelColor=29231F" alt="Creative computing" />
+  <img src="https://img.shields.io/badge/Artificial%20intelligence-B85F43?style=flat-square&labelColor=29231F" alt="Artificial intelligence" />
+  <img src="https://img.shields.io/badge/Computer%20science-B85F43?style=flat-square&labelColor=29231F" alt="Computer science" />
+  <img src="https://img.shields.io/badge/Systems-B85F43?style=flat-square&labelColor=29231F" alt="Systems" />
+  <img src="https://img.shields.io/badge/Creative%20computing-B85F43?style=flat-square&labelColor=29231F" alt="Creative computing" />
 </p>
 
 | Field | Current interests |
