@@ -43,7 +43,7 @@ My interests sit somewhere between artificial intelligence, low-level computing,
 
 <br>
 
-## 03 &nbsp; / &nbsp; Tools of the trade
+## Tools of the trade
 
 **Languages**
 
@@ -59,7 +59,7 @@ My interests sit somewhere between artificial intelligence, low-level computing,
 
 <br>
 
-## 04 &nbsp; / &nbsp; The learning journey
+## The learning journey
 
 <table>
   <tr>
